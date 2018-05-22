@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-README = open('README.txt').read()
+README = open('read_me.txt').read()
 
 setup(
     name = "django-weekday-field",
